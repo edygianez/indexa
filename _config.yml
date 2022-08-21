@@ -3,7 +3,7 @@
 
 title: As Aventuras de Indexa Jones
 author: Edy Gianez Silva
-logo: logo_indexa.png
+logo: logo.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
